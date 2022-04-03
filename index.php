@@ -73,7 +73,7 @@
 
     </div>
   </div>
-  <div class="parallax"><img src="assets/lading-page/bg_1.jpg" alt="pessoa escrevendo" style="filter: blur(4px);"></div>
+  <div class="parallax"><img src="assets/fundo.jpg" width="100px" style="filter: blur(4px);"></div>
 </div>
 
 
