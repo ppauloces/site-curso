@@ -1,0 +1,93 @@
+    *{
+    	font-family: 'Montserrat', sans-serif;
+    }
+
+    .size-icons{
+    	padding-top: 20px;
+    	font-size: 70px;
+    }
+
+
+    hr {
+
+        height: 10px;
+        background-color: #23022B; 
+        height: 1px; 
+        border: 0;
+
+    }
+
+    #olho {
+        background-image: linear-gradient(to bottom, rgb(10, 217, 161), rgb(0, 208, 61));background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        cursor: pointer;
+        color: black;
+    }
+
+    #gradient_icon {
+
+    	background-image: linear-gradient(to bottom, rgb(55, 61, 169), rgb(138, 56, 156));
+
+    	background-clip: text;
+    	-webkit-background-clip: text;
+    	-webkit-text-fill-color: transparent;
+
+    	color: black;
+
+    }
+
+    .cafe-text{
+    	font-weight: 500;
+    	padding-bottom: 5px;
+    	font-size: 20px;
+    	text-shadow: rgba(0, 0, 0, 8)0px 1px 1px;
+    }
+
+    .nav-btn-cadastro{
+    	
+        font-size: 12px;
+
+    	background: #8A389C;
+    	
+        border: 1px solid red;
+
+    	border-radius: 20px;
+    	
+    	
+
+    }
+
+    .gradiente-btn {
+    	background: linear-gradient(90deg, rgb(55, 61, 169), rgb(138, 56, 156));
+
+    }
+
+    .back-btn {
+        background-color: grey;
+        border-radius: 7px;
+        text-shadow: rgba(0, 0, 0, 8)0px 1px 1px;
+    }
+
+    .gradiente-fundo {
+    	background: linear-gradient(90deg, rgb(55, 61, 169), rgb(138, 56, 156));
+
+    }
+
+    .gradiente-ouro {
+        background-image: linear-gradient(to right, #f9d423 0%, #ff4e50 100%);
+    }
+
+    .text-shadow {
+    	text-shadow: rgba(0, 0, 0, 8)0px 1px 1px;
+    }
+
+    .footer-h5 {
+    	text-shadow: rgba(0, 0, 0, 0.8)0px 2px 2px;
+    	font-weight: 500;
+    }
+
+    .footer-li {
+    	font-size:15px;
+    	padding-bottom: 8px;
+    }
